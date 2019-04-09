@@ -25,7 +25,18 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "src/assets/js/jquery.js",
+              
+              "src/assets/js/jquery.nicescroll.min.js",
+              "src/assets/js/jquery.smartmenus.min.js",
+              
+              
+            
+              
+              "src/assets/js/mainhand.js"
+              
+            ],
             "es5BrowserSupport": true
           },
           "configurations": {
